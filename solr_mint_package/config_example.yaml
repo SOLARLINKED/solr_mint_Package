@@ -1,0 +1,10 @@
+issuer_seed: "YOUR_ISSUER_SEED"
+hot_seed:    "YOUR_HOT_SEED"
+esg_treasury: "rExampleESGAddress"  # address to receive ESG share (for reference)
+marketplace:  "rExampleMarketAddress"  # marketplace address (for reference)
+currency_code: "SOLR"       # 3‑letter or 20‑byte currency code
+jurisdiction: "US-NJ"
+program: "NJ-SREC"
+vintage: "2025"
+meter_hash: "<hash-of-meter-data>"
+oracle_reference: "<URL-or-hash-of-signed-data>"
