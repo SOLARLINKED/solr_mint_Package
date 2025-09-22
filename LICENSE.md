@@ -84,7 +84,7 @@ To request permission for any use beyond the Evaluation Purpose, or to
 request a commercial license, contact:
 
 SOLR Energy & Technology, LLC
-Email: legal@solr.energy
+Email: solrlinked@gmail.com
 Address: 30 N Gould St Ste N, Sheridan, Sheridan County, WY 82801, USA
 
 Include in your request: your legal entity name, intended use, duration,
@@ -237,8 +237,7 @@ EIN: 39-4018306
 Addresses
 ---------
 Mailing Address: 30 N Gould St Ste N, Sheridan, Sheridan County, WY 82801, USA
-Principal Address: 30 N Gould St Ste N, Sheridan, Sheridan County, WY 82801, USA
-Registered Agent Address: 30 N Gould St Ste N, Sheridan, Sheridan County, WY 82801, USA
+
 
 Repository Privacy Note
 -----------------------
